@@ -13,3 +13,7 @@ We consumed some ether for executing the transactions on one of the 10 default a
 
 
 
+
+![alt text](https://github.com/DhanaTontanahal/Election-DAPP/blob/master/remix-transaction-log.PNG)
+
+
